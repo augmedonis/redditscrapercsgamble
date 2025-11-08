@@ -1,4 +1,4 @@
-# Reddit CS:GO/CS2 Gambling Research Scraper
+# Reddit CS:GO/CS2 Gambling Research Scraper Vibecoded
 
 A Python script to scrape Reddit posts from CS:GO/CS2 and gaming subreddits about case opening, gambling, loot boxes, and addiction. Data is collected from November 2024 to November 2025 and exported to CSV format.
 
