@@ -1,6 +1,6 @@
 # Reddit CS:GO/CS2 Gambling Research Scraper Vibecoded
 
-A Python script to scrape Reddit posts from CS:GO/CS2 and gaming subreddits about case opening, gambling, loot boxes, and addiction. Data is collected from November 2024 to November 2025 and exported to CSV format.
+A Python script to scrape Reddit posts from CS:GO/CS2 and gaming subreddits about case opening, gambling, loot boxes, and addiction.
 
 ## Features
 
@@ -14,6 +14,8 @@ A Python script to scrape Reddit posts from CS:GO/CS2 and gaming subreddits abou
 - Duplicate detection
 
 ## Setup
+
+### Python 3.13.9
 
 ### 1. Install Dependencies
 
@@ -78,8 +80,3 @@ The script generates:
 - Duplicate posts are automatically filtered out
 - The script can be run multiple times - it will append new posts to existing CSV
 - Logs are saved to `reddit_scraper.log` for debugging
-
-## License
-
-This project is for research purposes only. Please respect Reddit's Terms of Service and API usage guidelines.
-
